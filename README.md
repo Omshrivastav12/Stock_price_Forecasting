@@ -20,6 +20,7 @@ This project aims to forecast **future closing prices** of stocks by leveraging 
 4. [⚙️ Usage](#%EF%B8%8F-usage)
 5. [📦 Dependencies](#-dependencies)
 6. [💬 Acknowledgements](#-acknowledgements)
+7. [📫 Contact](#-contact)
 
 ---
 
@@ -111,4 +112,12 @@ Special thanks to **[yfinance](https://pypi.org/project/yfinance/)** for providi
 
 ---
 
-Feel free to reach out if you have questions, and enjoy exploring stock price prediction! 🚀
+## 📫 Contact
+
+Feel free to reach out for questions or support:
+
+- **Name**: Om Subhash Shrivastav
+- **Email**: [omshrivastav1005@gmail.com](mailto:omshrivastav1005@gmail.com)
+- **GitHub**: [Omshrivastav12](https://github.com/Omshrivastav12)
+
+Happy recommending! 🌟
